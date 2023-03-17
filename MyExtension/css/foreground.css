@@ -1,0 +1,6 @@
+.myextapodimage{
+    display:flex;
+    min-height:400px;
+    min-width:100%;
+    background-color: blueviolet;
+}
