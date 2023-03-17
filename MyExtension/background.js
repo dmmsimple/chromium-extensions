@@ -56,7 +56,7 @@ async function getApodImage(request){
         method: 'get',
         mode: 'cors',
         'Content-Type': 'application/json',
-        headers: Headers,
+        headers: headers,
     });
 
     const data = await response.json();
